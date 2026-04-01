@@ -31,7 +31,7 @@ I am a detail-oriented **Data Analyst** with a strong foundation in statistics a
 
 ### 📂 Featured Portfolio Projects
 
-* 📈 **[Data Science Job Market Analysis](https://github.com/DuskFox-Cloud/Job-Market-Analysis)** *(In Progress 🚧)*
+* 📈 **[Data Science Job Market Analysis](https://github.com/DuskFox-Cloud/Job_Market_Analysis.git)** *(In Progress 🚧)*
   * *Tech: Python (Pandas, Seaborn), Web Scraping/APIs*
   * Analyzing job postings to uncover the most in-demand skills (Python vs SQL), salary distributions by role (Data Scientist vs Analyst), and geographic hotspots for tech talent.
 
@@ -56,8 +56,9 @@ I am a detail-oriented **Data Analyst** with a strong foundation in statistics a
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuskFox-Cloud&show_icons=true&theme=radical" alt="Suraj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuskFox-Cloud&theme=radical" alt="Suraj's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuskFox-Cloud&show_icons=true&theme=radical" alt="GitHub Stats" width="480" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuskFox-Cloud&theme=radical" alt="GitHub Streak" width="480" />
 </p>
 
 ---
