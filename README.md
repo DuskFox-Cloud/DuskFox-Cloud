@@ -53,12 +53,20 @@ I am a detail-oriented **Data Analyst** with a strong foundation in statistics a
 
 ---
 
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuskFox-Cloud&show_icons=true&theme=radical" alt="GitHub Stats" width="480" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=DuskFox-Cloud&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Suraj's GitHub Stats" width="480" />
+  
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuskFox-Cloud&theme=radical" alt="GitHub Streak" width="480" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuskFox-Cloud&theme=radical" alt="Suraj's GitHub Streak" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=DuskFox-Cloud&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="480" />
 </p>
 
 ---
