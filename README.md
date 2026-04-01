@@ -65,7 +65,12 @@ I am a detail-oriented **Data Analyst** with a strong foundation in statistics a
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DuskFox-Cloud&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskFox-Cloud&theme=radical" width="97%" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DuskFox-Cloud&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuskFox-Cloud&theme=radical" width="48%" />
 </p>
 
 ---
