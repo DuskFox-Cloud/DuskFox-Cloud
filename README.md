@@ -53,20 +53,19 @@ I am a detail-oriented **Data Analyst** with a strong foundation in statistics a
 
 ---
 
----
-
-### 📈 GitHub Stats
+### 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=DuskFox-Cloud&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Suraj's GitHub Stats" width="480" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuskFox-Cloud&theme=radical" alt="Suraj's GitHub Streak" width="480" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuskFox-Cloud&theme=react-dark&area=true&hide_border=true" width="100%" alt="Suraj's Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=DuskFox-Cloud&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="480" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskFox-Cloud&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DuskFox-Cloud&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DuskFox-Cloud&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
