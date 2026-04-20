@@ -11,7 +11,7 @@
 
 I am a detail-oriented **Data Analyst** with a strong foundation in statistics and a passion for uncovering actionable trends. I specialize in end-to-end data processing—from messy, unstructured data to clean, executive-ready dashboards. 
 
-- 🔭 **Current Focus:** Building predictive models for career pathing and salary forecasting.
+- 🔭 **Current Focus:** currently workin on Animelist Project.
 - 🌱 **Currently learning:** Advanced Machine Learning (ML) and Deep Learning.
 - 🛠️ **Technical Focus:** Writing clean, future-proof code (Pandas 3.0+ & Seaborn 0.14+ compliant).
 - 📫 **Reach me at:** [surajkumarhembram9@gmail.com](mailto:surajkumarhembram9@gmail.com)
@@ -54,6 +54,11 @@ I am a detail-oriented **Data Analyst** with a strong foundation in statistics a
 * 🏥 **[Medical Data History](https://github.com/DuskFox-Cloud/Medical-Data-History.git)**
   * *Tech: SQL (Advanced Joins, CTEs)*
   * Executed **35+ complex SQL queries** to analyze healthcare patient retention and demographic trends.
+ 
+* 🪬 **[Anime Analytics Project](https://github.com/DuskFox-Cloud/animetrics.git)**
+  * Tech: Python (Pandas, NumPy, Seaborn, Matplotlib)
+  * Processed raw MyAnimeList data (XML → CSV), removed sensitive information, and conducted EDA to analyze genre preferences, ratings distribution, and watch trends.
+
 
 ---
 
